@@ -8,6 +8,10 @@
 	align-items:center;
 	position:relative;
 }
+.12bu {
+        height:30px;
+        width:30px;
+}
 #box_6_9 {
 	display:none;
 }
