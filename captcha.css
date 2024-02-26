@@ -1,0 +1,28 @@
+.check_7_ {
+	height:70px;
+	width:300px;
+	background:rgba(0, 0, 200, 0.2);
+	border:2px solid #555;
+	border-radius:5px;
+	display:flex;
+	align-items:center;
+	position:relative;
+}
+#box_6_9 {
+	display:none;
+}
+.fake_true {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  border: 2px solid #999;
+  background:#eee;
+  border-radius:5px;
+  justify-content:center;
+  align-items:center;
+  color:green;
+  margin-left:8px;
+  margin-right:5px;
+  font-size:18px;
+  font-weight:bold;
+}
