@@ -14,7 +14,7 @@ yu.onclick =()=> {
 		return;
 	}
 }
-la.innerHTML = '<label for="yu">I`m not a robot</label>';
+la.innerHTML = '<label for="yu">I`m not a robot</label><img class="12bu" src="log.png">';
 setInterval(() => {
 	if(!box_6_9.checked){
 		return;
