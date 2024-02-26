@@ -11,12 +11,14 @@ yu.onclick =()=> {
 		box_6_9.click();
 		yu.innerHTML = "";
 		rei = "";
+		return;
 	}
 }
 la.innerHTML = '<label for="yu">I`m not a robot</label>';
 setInterval(() => {
 	if(!box_6_9.checked){
 		return;
+		rei = "";
 	} else {
 		rei = "a";
 	}
