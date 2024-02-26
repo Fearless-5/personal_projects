@@ -1,3 +1,6 @@
+var yu = document.getElementById("yu");
+var box_6_9 = document.getElementById("box_6_9");
+var la = document.getElementById("la");
 yu.onclick =()=> {
 	if(!box_6_9.checked){
 		box_6_9.click();
