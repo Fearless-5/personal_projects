@@ -1,0 +1,6 @@
+
+<div  class="check_7_" >
+				<input type="checkbox" id="box_6_9" >
+				<div class="fake_true" id="yu" ></div>
+				<span id="la" ></span>
+				</div>
