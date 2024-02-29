@@ -1,6 +1,20 @@
 
+Copy and paste this text into your project 
+
+<link rel="stylesheet" href="https://fit-recaptcha.vercel.app/captcha.css">
+
 <div  class="check_7_" >
-				<input type="checkbox" id="box_6_9" >
-				<div class="fake_true" id="yu" ></div>
-				<span id="la" ></span>
-				</div>
+<input type="checkbox" id="box_6_9" >
+<div class="fake_true" id="yu" ></div>
+<span id="la" ></span>
+</div>
+
+<script type="text/javascript" src="https://fit-recaptcha.vercel.app/captcha.js" defer></script>
+<script>
+if(com == ""){
+alert("Box not checked");
+return;
+} else {
+alert(com);
+}
+</script>
