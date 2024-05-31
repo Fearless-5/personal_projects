@@ -1,5 +1,5 @@
 
-Copy and paste this text into your project 
+Copy and paste this code into your project 
 
 <link rel="stylesheet" href="https://fit-recaptcha.vercel.app/captcha.css">
 
